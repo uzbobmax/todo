@@ -7,5 +7,4 @@ use Illuminate\Database\Eloquent\Model;
 class ListTo extends Model
 {
     public $table = 'list';
-    private $password =  'bo';
 }
